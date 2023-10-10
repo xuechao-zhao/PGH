@@ -12,7 +12,7 @@ import time
 
 selffile = os.path.abspath(__file__)
 selfdir = os.path.dirname(selffile)
-sys.path.append(selfdir +  '/../PGH_API_lims14')
+sys.path.append(selfdir +  '/../PGH_Bin')
 from config import config
 
 
